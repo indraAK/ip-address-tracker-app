@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://optimistic-brown-d5a8fd.netlify.app/">
+    <a href="https://boring-poincare-627bf7.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/responsive-rest-countries-api-using-react-and-tailwind-4Qnl8HASg">
+    <a href="https://www.frontendmentor.io/solutions/ip-address-tracker-app-using-react-reactleaflet-and-tailwind-nlL4uf2w0">
       Solution
     </a>
     <span> | </span>
